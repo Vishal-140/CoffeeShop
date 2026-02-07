@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc528a9b-ebd8-4580-9173-609effaef5c1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Vishal-140"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Vishal-140/CoffeeShop.git",
+    "accountId": "98a74bfd-80f3-471f-af54-8250f2c05ce0"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="39KIjh8WUwpIaP6nPkTEwCadLxM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.CoffeeShopApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CoffeeShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="CoffeeShop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.CoffeeShop.CoffeeShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc528a9b-ebd8-4580-9173-609effaef5c1" name="Changes" comment="" />
+      <created>1770438472418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770438472418</updated>
+      <workItem from="1770438474244" duration="11873000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial setup">
+      <option name="closed" value="true" />
+      <created>1770440257405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770440257405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Order">
+      <option name="closed" value="true" />
+      <created>1770441120072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770441120072</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Barista &amp; Queue Service">
+      <option name="closed" value="true" />
+      <created>1770442266825</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770442266825</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Order completion scheduler">
+      <option name="closed" value="true" />
+      <created>1770442503527</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770442503527</updated>
+    </task>
+    <task id="LOCAL-00005" summary="waiting, in-progress &amp; done orders">
+      <option name="closed" value="true" />
+      <created>1770442805732</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770442805732</updated>
+    </task>
+    <task id="LOCAL-00006" summary="orders &amp; barista auto scheduler">
+      <option name="closed" value="true" />
+      <created>1770444266438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770444266438</updated>
+    </task>
+    <task id="LOCAL-00007" summary="priority and queue">
+      <option name="closed" value="true" />
+      <created>1770444649487</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770444649487</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fairness (skipCount)">
+      <option name="closed" value="true" />
+      <created>1770445307156</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770445307156</updated>
+    </task>
+    <task id="LOCAL-00009" summary="menu &amp; order scheduler">
+      <option name="closed" value="true" />
+      <created>1770447748489</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770447748489</updated>
+    </task>
+    <task id="LOCAL-00010" summary="order, priority &amp; queue fixed">
+      <option name="closed" value="true" />
+      <created>1770449501599</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770449501599</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial setup" />
+    <MESSAGE value="Order" />
+    <MESSAGE value="Barista &amp; Queue Service" />
+    <MESSAGE value="Order completion scheduler" />
+    <MESSAGE value="waiting, in-progress &amp; done orders" />
+    <MESSAGE value="orders &amp; barista auto scheduler" />
+    <MESSAGE value="priority and queue" />
+    <MESSAGE value="Fairness (skipCount)" />
+    <MESSAGE value="menu &amp; order scheduler" />
+    <MESSAGE value="order, priority &amp; queue fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="order, priority &amp; queue fixed" />
+  </component>
+</project>
