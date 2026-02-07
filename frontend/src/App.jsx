@@ -5,17 +5,20 @@ import Dashboard from './pages/Dashboard';
 
 import Navbar from './components/Navbar';
 
+
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-gray-50 flex flex-col">
-        <Navbar />
-        <div className="flex-1">
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/menu" element={<Menu />} />
-            <Route path="/dashboard" element={<Dashboard />} />
-          </Routes>
+      <div className="min-h-screen bg-gray-50 text-gray-900 font-sans">
+        <div className="min-h-screen bg-gray-50 flex flex-col">
+          <Navbar />
+          <div className="flex-1">
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/menu" element={<Menu />} />
+              <Route path="/dashboard" element={<Dashboard />} />
+            </Routes>
+          </div>
         </div>
       </div>
     </Router>

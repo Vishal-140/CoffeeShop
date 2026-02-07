@@ -8,9 +8,13 @@ import java.time.LocalDateTime;
 public class PriorityCalculator {
 
     public static double calculate(Order order) {
+        return calculate(order, LocalDateTime.now());
+    }
+
+    public static double calculate(Order order, LocalDateTime now) {
 
         long waitMinutes = Duration
-                .between(order.getArrivalTime(), LocalDateTime.now())
+                .between(order.getArrivalTime(), now)
                 .toMinutes();
 
         // 1. Wait time score (Max 40)
