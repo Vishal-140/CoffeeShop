@@ -62,4 +62,9 @@ public class OrderService {
     public List<Order> getDoneOrders() {
         return orderRepository.findByStatus("DONE");
     }
+
+    // ABANDONED ORDERS
+    public List<Order> getAbandonedOrders() {
+        return orderRepository.findByStatus("ABANDONED");
+    }
 }

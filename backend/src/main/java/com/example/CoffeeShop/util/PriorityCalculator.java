@@ -27,6 +27,8 @@ public class PriorityCalculator {
 
         // 3. Loyalty score (Max 10)
         double loyaltyScore = switch (order.getCustomerType()) {
+            case "VIP" -> 20;
+            case "PREMIUM" -> 15;
             case "GOLD" -> 10;
             case "REGULAR" -> 5;
             default -> 0;

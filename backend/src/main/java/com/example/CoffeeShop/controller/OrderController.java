@@ -37,4 +37,9 @@ public class OrderController {
         return orderService.getDoneOrders();
     }
 
+    @GetMapping("/abandoned")
+    public List<Order> abandoned() {
+        return orderService.getAbandonedOrders();
+    }
+
 }
