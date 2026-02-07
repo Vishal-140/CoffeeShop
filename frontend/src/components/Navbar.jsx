@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
-import { Coffee, ClipboardList, LayoutDashboard } from 'lucide-react';
+import { Coffee, ClipboardList, LayoutDashboard, BarChart } from 'lucide-react';
 
 export default function Navbar() {
     const location = useLocation();
@@ -30,6 +30,10 @@ export default function Navbar() {
                             <Link to="/dashboard" className={`px-3 py-2 rounded-md text-sm font-medium transition flex items-center gap-2 ${isActive('/dashboard')}`}>
                                 <LayoutDashboard className="h-4 w-4" />
                                 Queue
+                            </Link>
+                            <Link to="/simulation" className={`px-3 py-2 rounded-md text-sm font-medium transition flex items-center gap-2 ${isActive('/simulation')}`}>
+                                <BarChart className="h-4 w-4" />
+                                Simulation
                             </Link>
                         </div>
                     </div>

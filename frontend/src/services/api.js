@@ -21,4 +21,8 @@ export const baristaApi = {
     getAll: () => api.get('/baristas'),
 };
 
+export const simulationApi = {
+    run: (seed) => api.get(`/simulation/${seed}`)
+};
+
 export default api;
